@@ -19,8 +19,7 @@ full industrial automation cell integrating ABB and Franka Emika robots with Bec
 PLC, Zenon SCADA, machine vision, and HMI — built to handle autonomous pallet 
 assembly and component validation.
 
-Currently looking for entry-level roles in robotics engineering in Sweden or Europe, 
-particularly in control systems, industrial automation, or robot learning.
+
 
 ---
 
